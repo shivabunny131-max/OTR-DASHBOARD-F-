@@ -1,0 +1,18 @@
+[browser]
+serverAddress = "nestle-southindia-otr-dashboard.com"
+serverPort = 443
+
+[server]
+port = 8501
+enableXsrfProtection = true
+enableCORS = false
+
+[client]
+showErrorDetails = false
+
+[theme]
+primaryColor = "#006B4F"
+backgroundColor = "#F5F7F6"
+secondaryBackgroundColor = "#f0f2f1"
+textColor = "#173B32"
+font = "sans serif"

@@ -1,0 +1,11 @@
+Metric,Value
+OTR source rows,1243
+Final dashboard rows,1243
+Unique tickets,1243
+Missing invoice,260
+Missing product code,661
+Missing batch,798
+Tickets with product-code mapping,566
+Tickets requiring brand review,677
+Duplicate ticket rows,0
+DC Issue tickets,782

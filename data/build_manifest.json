@@ -1,0 +1,12 @@
+{
+  "project": "DashBoard-OTR Final",
+  "otr_rows": 1243,
+  "secondary_rows": 1243,
+  "product_master_rows": 5870,
+  "final_rows": 1243,
+  "unique_tickets": 1243,
+  "date_min": "2026-01-01",
+  "date_max": "2026-06-30",
+  "brand_mapped_tickets": 566,
+  "note": "VTA/VTR reconciled workbook was not one of the three current uploads; no unsupported VTA/VTR matches were fabricated."
+}
